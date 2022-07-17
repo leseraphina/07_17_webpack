@@ -1,0 +1,17 @@
+$color--black : #000;
+$color--white : #fff;
+
+body{
+    h1{
+        text-align:center;
+    }
+    h2{
+        text-align:center;
+        background-color:$color--black;
+        color:$color--white;
+    }
+    p{
+        background-color:$color--black;
+        text-align:center;
+    }
+}
